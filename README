@@ -1,0 +1,9 @@
+# Setup 
+Using Express, Jest and ESM
+
+# Test
+1. Clone repo
+2. npm install
+3. npm run test
+
+All the test will failed because i cannot mock es module import
